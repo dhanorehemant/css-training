@@ -1,0 +1,95 @@
+body {
+    background-color: greenyellow;
+    margin: 0;
+}
+.page {
+    background-color: white;
+    width: 800px;
+    margin: 0 auto;
+}
+.header {
+    background-color: burlywood;
+    padding: 20px;
+    overflow: hidden;
+    border-bottom: 2px solid black;
+}
+.logo {
+    float: left;
+}
+.search {
+    float: right;
+}
+.nav {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.nav-link {
+    border: 2px solid black;
+    padding: 10px 30px;
+    display: inline-block;
+    color: black;
+    margin: 0 10px;
+}
+.main {
+    padding: 20px 0;
+    overflow: hidden;
+}
+.left-content {
+    float: left;
+    width: 20%;
+}
+.left-nav-link {
+    border-bottom: 2px solid grey;
+    padding: 5px 10px;
+}
+.middle-content {
+    float: left;
+    width: 60%;
+    text-align: center;
+}
+.banner {
+    padding: 0 20px;
+}
+.banner-image {
+    width: 100%;
+}
+.middle-content .product {
+    display: inline-block;
+}
+.right-content {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+.product {
+    border: 2px solid grey;
+    width: 120px;
+    margin: 5px auto;
+    padding: 10px;
+}
+.product-image {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.footer {
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

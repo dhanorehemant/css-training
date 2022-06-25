@@ -1,0 +1,48 @@
+.header {
+    background-color: blueviolet;
+    height: 100px;
+}
+.nav {
+    background-color: yellowgreen;
+}
+.main {
+    background-color: aqua; 
+    overflow: hidden;
+}
+.footer {
+    background-color: blueviolet;
+    text-align: center;
+}
+.left-container {
+    width: 20%;
+    background-color: blue;
+    height: 400px;
+    float: left;
+}
+.middle-container {
+    float: left;
+    width: 60%;
+    background-color: tan;
+}
+.right-container {
+    float: right;
+    width: 20%;
+    background-color: tomato;
+}
+.logo {
+    float: left;
+}
+.search {
+    float: right;
+}
+.product {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.best-seller-product .product {
+    width: 33.33%;
+}
+.product-image {
+    width: 100px;
+}

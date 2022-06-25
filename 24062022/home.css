@@ -1,0 +1,35 @@
+.main {
+    background-color: aquamarine;
+    padding: 20px;
+    border: 5px solid black;
+}
+.row {
+    background-color: red;
+    overflow: hidden;
+}
+.column {
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+.column:hover {
+    background-color: blueviolet;
+}
+.feature-product .column {
+    width: 50%;
+}
+.page-heading {
+    margin: 0;
+    font-size: 50px;
+    font-weight: normal;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.details {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,29 @@
+.done {
+    background-color: green;
+}
+.wip {
+    background-color: yellow;
+}
+.nys {
+    background-color: orangered;
+}
+.table-heading{
+    background-color: violet;
+}
+.important-topic {
+    background-color: red;
+}
+body {
+    background-color: purple;
+}
+.table-bg {
+    background-color: white;
+}
+
+.table1 .table-heading {
+    background-color: green;
+}
+.table2 .table-heading {
+    background: black;
+    color: white;
+}

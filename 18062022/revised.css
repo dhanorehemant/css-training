@@ -1,0 +1,16 @@
+body {
+    background-color:green;
+}
+.team-member.late-joined {
+    background-color: yellow;
+    color: red;
+}
+.team-member {
+    background-color: red;
+    color: white;
+}
+
+#teacher {
+    background-color: turquoise;
+    color: black;
+}

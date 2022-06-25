@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+header {
+    background-color: darkorange;
+    height: 100px;
+}
+nav {
+    background-color: darkturquoise;
+    height: 40px;
+}
+main {
+    background-color: yellowgreen;
+    height: 400px;
+}
+footer {
+    background-color: tomato;
+    height: 100px;
+}
+li {
+    background-color: pink;
+}
+.topper {
+    background-color: greenyellow;
+}
+.looser {
+    background-color: red;
+}
+#cs-topper {
+    background-color: tomato;
+}
+li#cs-topper {
+    background-color: violet;
+}
+.topper#cs-topper {
+    background-color: silver;
+}
+li.topper#cs-topper {
+    background-color: burlywood;
+}
+ul li.topper#cs-topper {
+    background-color: black;
+}

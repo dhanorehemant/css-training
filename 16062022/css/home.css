@@ -1,0 +1,19 @@
+body {
+    background-color: gold;
+}
+header {
+    background-color: red;
+    color: yellow;
+}
+nav {
+    background-color: greenyellow;
+}
+main {
+    background-color: blueviolet;
+}
+footer {
+    background-color: red;
+}
+p {
+    background-color: aquamarine;
+}

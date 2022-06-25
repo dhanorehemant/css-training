@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: aquamarine;
+    padding: 20px;
+    overflow: hidden;
+}
+nav {
+    background-color: red;
+    padding: 10px;
+}
+main {
+    background-color: blueviolet;
+    padding: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+footer {
+    background-color: aquamarine;
+    padding: 20px;
+}
+.logo {
+    float: left;
+}
+.search {
+    float: right;
+}
+.product {
+    width: calc(25% - 3px);
+    display: inline-block;
+    background-color: red;
+}
