@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+.header, .footer {
+    background-color: #333333;
+    color: #C0BAB6;
+}
+.inner-header, .inner-footer {
+    max-width: 1000px;
+    border: 1px solid red;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+    
+    border: 1px solid red;
+}
+.inner-header div {
+    width: 50%;
+    background-color: green;
+    float: left;
+    min-width: 200px;
+}

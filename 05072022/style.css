@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: monospace;
+}
+.header-top {
+    background-color: #dcdcdc;
+    padding: 10px;
+    overflow: hidden;
+}
+.header-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.header-top__left {
+    float: left;
+    width: 150px;
+}
+.header-top__right {
+    float: right;
+    width: calc(100% - 150px);
+    text-align: right;
+}
+.nav {
+    padding: 10px;
+    overflow: hidden;
+}
+.notification {
+    background-color: orange;
+    padding: 20px;
+    color: white;
+}
+.notification-icon {
+    background-color: white;
+    color: orange;
+    padding: 2px 7px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+.notification-close {
+    float: right;
+}

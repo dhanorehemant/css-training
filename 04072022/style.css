@@ -1,0 +1,18 @@
+img {
+    width: 100%;
+}
+.block {
+    width: 50%;
+    background-color: red;
+    float: left;
+}
+@media screen and (max-width: 1024px){
+    .block {
+        background-color: purple;
+    }
+}
+@media screen and (max-width: 767px){
+    .block {
+        background-color: green;
+    }
+}

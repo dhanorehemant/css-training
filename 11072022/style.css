@@ -1,0 +1,15 @@
+.css-gradient {
+    background: linear-gradient(to bottom, pink, purple);
+    padding: 20px;
+}
+
+.block {
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(red 150px, green 50px, yellow, pink);
+}
+.block1 {
+    width: 400px;
+    height: 400px;
+    background: conic-gradient(yellow 50%, red, purple, pink, black);
+}

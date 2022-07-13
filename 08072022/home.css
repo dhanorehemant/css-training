@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+.block {
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+}
+.left-content {
+    background-color: red;
+    width: 100%;
+    margin: 10px;
+}
+.right-content {
+    background-color: purple;
+    width: 100%;
+    padding: 20px;
+    
+    margin: 10px;
+}
